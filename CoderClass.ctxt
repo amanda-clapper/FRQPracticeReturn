@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CoderClass
+comment0.text=\r\n\ \r\n
+comment1.params=word\ n
+comment1.target=java.lang.String\ shorten(java.lang.String,\ int)
+comment2.params=n
+comment2.target=int\ whatsTheSum(int)
+numComments=3
